@@ -1,3 +1,8 @@
+
+Layoff Analysis using Excel
+
+
+
 The firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession and firms have started laying employees off. This economic slowdown has made Meta recently fire 13% of its workforce, which amounts to more than 11,000 employees. 
 
 The objective of this data analysis project is to analyze recent tech turmoil and discover useful insights.
