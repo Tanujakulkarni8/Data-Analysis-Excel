@@ -1,4 +1,4 @@
-# Data-Analysis--Excel
+# Data-Analysis--Excel and SQL
 
 Sales reports provide data-driven insights about the sales performance. Sales reports allow you to improve your sales process, fill knowledge gaps, and hit your quotas consistently. This report shows trends impacting your sales operations within a specific period.
 
